@@ -1,43 +1,106 @@
 [
   {
-    "label": "What is 2 + 3?",
+    "label": "In addition to the knit stich, what is the second basic knitting stich?",
     "choices": [
       {
-        "value": "5",
+        "value": "pearl",
+        "correct": false
+      },
+      {
+        "value": "purl",
         "correct": true
       },
       {
-        "value": "15",
+        "value": "knot",
         "correct": false
       },
       {
-        "value": "3",
-        "correct": false
-      },
-      {
-        "value": "pi",
+        "value": "slip",
         "correct": false
       }
     ]
   },
   {
-    "label": "What is 3 - 9?",
+    "label": "What does psso mean?",
     "choices": [
       {
-        "value": "3",
+        "value": "please share stiches often",
         "correct": false
       },
       {
-        "value": "-6",
+        "value": "purling sure seems overdone",
+        "correct": false
+      },
+      {
+        "value": "perfect stitches seem obvious",
+        "correct": false
+      },
+      {
+        "value": "pass slip stitch over",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What is the gauge (or tension) in knitting patterns?",
+    "choices": [
+      {
+        "value": "weight of yarn",
+        "correct": false
+      },
+      {
+        "value": "railway widths for model trains",
+        "correct": false
+      },
+      {
+        "value": "number of stitches and rows per inch you should get when you use the needles and yarn indicated in a pattern",
         "correct": true
       },
       {
-        "value": "Bonjour",
+        "value": "thickness of needles",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "label": "What do the stitches used in Aran knitting represent?",
+    "choices": [
+      {
+        "value": "knitting experiments",
         "correct": false
       },
       {
-        "value": "pi",
+        "value": "the knitter's mistakes",
         "correct": false
+      },
+      {
+        "value": "long nights by candlelight",
+        "correct": false
+      },
+      {
+        "value": "symbols of marriage and the fisherman's life",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "label": "What is it called when you knit one row and purl the next?",
+    "choices": [
+      {
+        "value": "boring",
+        "correct": false
+      },
+      {
+        "value": "a beginner's technique",
+        "correct": false
+      },
+      {
+        "value": "simple knitting",
+        "correct": false
+      },
+      {
+        "value": "stockinette stitch",
+        "correct": true
       }
     ]
   }
