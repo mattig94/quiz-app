@@ -1,0 +1,14 @@
+[
+    {
+        "label": "Knitting",
+        "name": "knitting",
+        "description": "Questions about the basics of knitting",
+        "fileName": "knitting.json"
+    },
+    {
+        "label": "Crocheting",
+        "name": "crocheting",
+        "description": "Questions about the basics of crocheting",
+        "fileName": "crocheting.json"
+    }
+]
