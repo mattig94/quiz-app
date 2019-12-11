@@ -1,0 +1,8 @@
+<div class="welcome">
+    <h2>Quizzes</h2>
+    <div class="quizzes" *ngFor="let q of quiz">
+        <button class="btn btn-primary">
+            <a routerLink="/{{q.name}}">{{q.name}}</a>
+        </button>
+    </div>
+</div>

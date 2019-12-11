@@ -1,0 +1,107 @@
+[
+    {
+      "label": "What does the abbreviation yo mean?",
+      "choices": [
+        {
+          "value": "yawl order",
+          "correct": false
+        },
+        {
+          "value": "yarn ollie",
+          "correct": false
+        },
+        {
+          "value": "yarn over",
+          "correct": true
+        },
+        {
+          "value": "yarn order",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "What does the abreviation sc mean?",
+      "choices": [
+        {
+          "value": "sort crochet",
+          "correct": false
+        },
+        {
+          "value": "sample crochet",
+          "correct": false
+        },
+        {
+          "value": "some crochet",
+          "correct": false
+        },
+        {
+          "value": "single crochet",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "label": "Many people start out crocheting what relatively easy patter?",
+      "choices": [
+        {
+          "value": "Uncle's Log Cabin",
+          "correct": false
+        },
+        {
+          "value": "Granny Square",
+          "correct": true
+        },
+        {
+          "value": "Mother Love",
+          "correct": false
+        },
+        {
+          "value": "Grandpa Fishin'",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "What is it called when you crochet a test swatch to make sure that your project will end up exactly the size you want?",
+      "choices": [
+        {
+          "value": "checking the size",
+          "correct": false
+        },
+        {
+          "value": "checking gauge",
+          "correct": true
+        },
+        {
+          "value": "finding measurements",
+          "correct": false
+        },
+        {
+          "value": "checking pattern",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "label": "What size hook would you chose to make a thread doily?",
+      "choices": [
+        {
+          "value": "3.5 mm",
+          "correct": false
+        },
+        {
+          "value": "U",
+          "correct": false
+        },
+        {
+          "value": "6 mm",
+          "correct": false
+        },
+        {
+          "value": "7",
+          "correct": true
+        }
+      ]
+    }
+  ]
