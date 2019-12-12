@@ -1,7 +1,11 @@
 <div class="results">
     <h2>Results</h2>
-    <div class="answer" *ngFor="let a of answers.values" [ngClass]="{correct: a.correct}">
-        {{a.value}}
+    <mat-list>
+        <mat-list-item class="answer" *ngFor="let a of answers.values" [ngClass]="{correct: a.correct}">
+            {{a.value}}
+        </mat-list-item>
+    </mat-list>
+    <div class="reset">
+        <a mat-raised-button color="primary" routerLink="/welcome">Choose another quiz</a>
     </div>
-    <a routerLink="/welcome" class="btn btn-primary">Choose another quiz</a>
 </div>

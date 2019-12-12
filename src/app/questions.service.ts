@@ -12,7 +12,7 @@ export class QuestionsService {
   public getQuizzes() {
     return this.http.get(`./assets/quiz-list.json`).pipe(
       map((result: any[]) => {
-        return result.map(r => new Quiz(r.label, r.name, r.description, r.fileName));
+        return result.map(r => new Quiz(r.label, r.name, r.description, r.image, r.altText, r.fileName));
       })
     );
   }
