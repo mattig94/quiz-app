@@ -1,0 +1,18 @@
+[
+    {
+        "label": "knitting",
+        "name": "Knitting",
+        "description": "Questions about the basics of knitting",
+        "image":"../assets/knitting.png",
+        "altText":"knitting by Anniken & Andreas from the Noun Project",
+        "fileName": "knitting.json"
+    },
+    {
+        "label": "crocheting",
+        "name": "Crocheting",
+        "description": "Questions about the basics of crocheting",
+        "image":"../assets/crocheting.png",
+        "altText":"crocheting by Anniken & Andreas from the Noun Project",
+        "fileName": "crocheting.json"
+    }
+]
