@@ -3,7 +3,7 @@
         "label": "knitting",
         "name": "Knitting",
         "description": "Questions about the basics of knitting",
-        "image":"..quiz-app/assets/knitting.png",
+        "image":"../quiz-app/assets/knitting.png",
         "altText":"knitting by Anniken & Andreas from the Noun Project",
         "fileName": "knitting.json"
     },
@@ -11,7 +11,7 @@
         "label": "crocheting",
         "name": "Crocheting",
         "description": "Questions about the basics of crocheting",
-        "image":"..quiz-app/assets/crocheting.png",
+        "image":"../quiz-app/assets/crocheting.png",
         "altText":"crocheting by Anniken & Andreas from the Noun Project",
         "fileName": "crocheting.json"
     }
